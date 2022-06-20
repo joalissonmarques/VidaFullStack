@@ -1,0 +1,8 @@
+.btn {
+  padding: 5px 30px;
+  border-radius: $btn-radius;
+  &.btn-orange{
+    background-color: $color-tercearia;
+    color: $color-branco;
+  }
+}

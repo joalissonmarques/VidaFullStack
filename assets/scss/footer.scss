@@ -1,0 +1,13 @@
+footer {
+  ul {
+    li {
+      margin: 0 20px 0 0;
+      a {
+        i{
+          color: $color-segundaria;
+          font-size: $social-media-icon;
+        }//end i
+      }//end a
+    }//end li
+  }//end ul
+}
